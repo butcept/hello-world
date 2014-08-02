@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-My first repository on GitHub
+Hoping to get my ghost set up on GitHub.
+
